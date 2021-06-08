@@ -17,10 +17,10 @@ pytube is a lightweight, Pythonic, dependency-free, library (and command-line ut
 
 
 ## How to run the code in to Your Machine.
-
+- If in case you don't have python setup in ur computer ,download it by [click here](https://www.python.org/downloads/)
 - Clone this repo to your machine. If you need help with this part, GitHub has [great documentation](https://help.github.com/articles/fork-a-repo/). 
 - Now run the command 'pip install -r requirements.txt' to install the required packages. 
-- In the `UtubeDownloader/` directory, run the command 'python main.py'
+- In the `UtubeDownloader/` directory, run the command `python main.py`
 - Now paste the url in input field and specify name of file or extension to save the youtube video.
 
 
