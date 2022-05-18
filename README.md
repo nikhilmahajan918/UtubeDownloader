@@ -4,7 +4,7 @@ We all know Youtube is a free video sharing website that makes it easy to watch 
 Few bunch codes will download the youtube video in root folder. 
 User need to paste the youtube URL to download the video. A default mp4 extension is set to save the download. Also, user can press the autodownload button which will take the youtube URL from API and download the video with the name of ID name and mp4 extesnion in root folder. 
 
-## Python libraries/Packages used used for development
+## Python libraries/Packages used for development
 
 - **Tkinter**:
 Tkinter is a standard library in Python which is used for GUI application. To check the Tkinter, we just need to import it in the text editor or IDE to access its functions.
